@@ -1,0 +1,21 @@
+Grup üyeleri:
+Ecem Kara
+Ömer Küçükaçar
+
+Proje Konusu:
+Sicaklik Sensörü
+
+
+Gerekli Malzemeler:
+
+Arduino UNO
+Breadboard
+1 adet 10k? NTC
+2 adet 10k? Direnç
+Ýki ucu erkek jumper kablo
+1 adet LED
+
+Arduino baþlangýç setinde yer almayan:
+
+1 adet 10k? NTC
+2 adet 10k? Direnç
