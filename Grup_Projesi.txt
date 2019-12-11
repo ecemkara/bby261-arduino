@@ -1,9 +1,9 @@
-Grup üyeleri:
+Grup Ã¼yeleri:
 Ecem Kara
-Ömer Küçükaçar
+Ã–mer KÃ¼Ã§Ã¼kaÃ§ar
 
 Proje Konusu:
-Sicaklik Sensörü
+Sicaklik SensÃ¶rÃ¼
 
 
 Gerekli Malzemeler:
@@ -11,11 +11,6 @@ Gerekli Malzemeler:
 Arduino UNO
 Breadboard
 1 adet 10k? NTC
-2 adet 10k? Direnç
-İki ucu erkek jumper kablo
+2 adet 10k? DirenÃ§
+Ãki ucu erkek jumper kablo
 1 adet LED
-
-Arduino başlangıç setinde yer almayan:
-
-1 adet 10k? NTC
-2 adet 10k? Direnç
