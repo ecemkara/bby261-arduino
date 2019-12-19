@@ -4,6 +4,8 @@ Ecem Kara
 
 Proje Konusu:
 Sicaklik Sensörü
+bu sensör içerisinde  sıcaklıkta sicaklik > 30 kırmızı ampül yancak ve buzzer ötecek 20 < sicaklik < 28 sıcaklıkta sarı ampül yanacak 0< sicaklik <= 20 sıcaklıkta ise yeşil ampül yanacak yanan ampüller 1 saniye aralıklarla yanacak  aynı zamanda sıcaklık değeri lcd ekranda gösterilecek.
+
 
 
 Gerekli Malzemeler:
